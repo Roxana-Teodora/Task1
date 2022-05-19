@@ -6,6 +6,7 @@ public class Task1 {
 		System.out.println("Primul commit");
 		System.out.println("Al doilea commit");
 		System.out.println("Buna");
+		System.out.println("A treia ramura ");
 	}
 
 }
